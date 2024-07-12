@@ -21,17 +21,18 @@ const Navbar = () => (
         alt="search"
         className="w-[24px] h-[24px] object-contain"
       />
-<div className="flex items-center">
-  <img
-    src="/logo.png"
-    alt="website_logo"
-    className="w-16 h-16 object-contain mr-2"
-  />
-  <h2 className="font-extrabold text-2xl text-white">
-    METAREALM
-  </h2>
-</div>
 
+      <div className="flex items-center">
+        <img
+          src="/logo.png"
+          alt="website_logo"
+          className="w-16 h-16 object-contain mr-2"
+        />
+
+        <h2 className="font-extrabold text-2xl text-white">
+          METAREALM
+        </h2>
+      </div>
 
       <img
         src="/menu.svg"

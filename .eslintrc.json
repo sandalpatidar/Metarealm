@@ -1,0 +1,8 @@
+{
+  "extends": [
+    "next/core-web-vitals"
+  ],
+  "rules": {
+    "react/jsx-indent": ["error", 2] // Adjust the indentation size as needed
+  }
+}
